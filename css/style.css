@@ -1,0 +1,29 @@
+body {
+  margin: 5px 0;
+  background-color: white;
+}
+
+blockquote {
+  border: 0;
+}
+
+.container-fluid {
+    padding-bottom: 5px;
+}
+
+.headerText {
+  font-family: 'Sigmar One', cursive;
+  margin-bottom: 21px;
+}
+
+.imageMargin {
+  margin: 12px;
+}
+
+#SchieleQuote {
+  color: #D66567;
+}
+
+#bookLinks {
+  padding: 10px 0 21px 0;
+}
